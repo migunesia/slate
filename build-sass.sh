@@ -1,1 +1,1 @@
-sass css/slate.scss css/slate.scc
+sass css/slate.scss css/slate.css
